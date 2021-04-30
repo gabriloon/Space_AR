@@ -14,8 +14,9 @@ This repository contains:<br>
 
 
 ## BackGround
-A player woke up in a dark space, a strange mansion that you can even look around.
-Upon entering the mansion, the mansion was a strange place to display ghost stories.<br>
+In implementing Augmented reality, there was something I wanted to check, so I used Vuforia and its own database within Vuforia.<br>
+I tested it for the purpose of confirming that the ar function was reproduced by illuminating the specified photo,<br>
+and as a result, when I illuminated the photograph of the Earth, a 3D model of the Earth and the moon appeared, and I saw meteorites passing around it as it orbited.<br>
 
 ## Description
 Unzip the **Scripts.zip** folder and go into the folder.<br>

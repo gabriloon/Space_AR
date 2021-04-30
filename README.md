@@ -1,9 +1,8 @@
 # Space_AR
 This is a simple AR simulation using Unity's Vuforia.<br>
 This repository contains:<br>
-	1.Contains the Main code of the project.<br>
-	2.Background of the project.<br>
-	3.Contributor.<br>
+	1.Background of the project.<br>
+	2.Contributor.<br>
 	
 ## 목차
 - [BackGround](#BackGround)

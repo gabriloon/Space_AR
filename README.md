@@ -26,7 +26,8 @@ The contents of each *folder* are as follows.<br>
 
 ## RelatedEfforts
 Main Engine: [Unity engine](https://unity.com/kr)<br>
-AR Tool: [Vuforia](https://developer.vuforia.com/),  [Free3D](https://free3d.com/),  [AssetStore](https://assetstore.unity.com/) <br>
+3D Model: [AssetStore](https://assetstore.unity.com/)<br>
+AR Tool: [Vuforia](https://developer.vuforia.com/)<br>
 Sound: [FreeSound](https://freesound.org/)
 ## Contributor
 gabriloon
